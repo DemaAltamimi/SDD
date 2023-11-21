@@ -31,7 +31,7 @@ the full source code could be
 |Header 1|Header 2|
 |--------|--------|
 |Content 1|Content 2|
- [x]Task 1
+|[x]Task 1|[ ] Task2|
 
 
 
